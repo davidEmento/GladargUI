@@ -2,7 +2,7 @@
 ## Title: GladargUI
 ## Notes: Custom Midnight UI Master Importer.
 ## Author: Gladarg
-## Version: 1.0.2
+## Version: 1.0.4
 ## SavedVariables: GladargUIDB
 
 Core.lua
