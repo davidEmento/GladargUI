@@ -13,6 +13,6 @@ Paste this into the VS Code terminal (replace `v1.x.x` with your new version):
 ```bash
 git add .
 git commit -m "Update strings"
-git tag v1.0.4
+git tag v1.0.5
 git push origin main
-git push origin v1.0.4
+git push origin v1.0.5
